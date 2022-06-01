@@ -8,6 +8,6 @@
 ![endpoints](https://github.com/begalievn/bank-management-syste/blob/main/EndPoints.png)
 
 ### Operations
-We have operations like checking bank user's bank account and how much money he has
-Making transactions 
+We have operations like checking bank user's bank account and how much money he has <br/>
+Making transactions <br/>
 Adding bank users
